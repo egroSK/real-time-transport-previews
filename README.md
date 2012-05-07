@@ -6,7 +6,7 @@ Ukážkové aplikácie sú súčasťou bakalárskej práce na tému real-time we
 
 Transportné spôsoby sú predvedené na aplikácii zjednodušeného todo-listu. Todo-list má implementované iba dve funkcie - pridanie novej úlohy a získanie úloh zo servera.
 
-**Aplikácia neobsahuje všetky potrebné prvky, ktoré by boli pokryté v produkčnej aplikácii, ako overovanie hodnôt získaných od užívateľa a podobne. Jedná sa čisto iba o predvedenie komunikácie klienta so serverom pri danom transportnom spôsobe.**
+***Aplikácia neobsahuje všetky potrebné prvky, ktoré by boli pokryté v produkčnej aplikácii, ako overovanie hodnôt získaných od užívateľa a podobne. Jedná sa čisto iba o predvedenie komunikácie klienta so serverom pri danom transportnom spôsobe.***
 
 *Pozn. úlohy nie sú ukladané do databázy preto je ich životnosť iba po dobu spustenia aplikácie.*
 
