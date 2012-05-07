@@ -8,7 +8,9 @@ Transportné spôsoby sú predvedené na aplikácii zjednodušeného todo-listu.
 
 ***Aplikácia neobsahuje všetky potrebné prvky, ktoré by boli pokryté v produkčnej aplikácii, ako overovanie hodnôt získaných od užívateľa a podobne. Jedná sa čisto iba o predvedenie komunikácie klienta so serverom pri danom transportnom spôsobe.***
 
-*Pozn. úlohy nie sú ukladané do databázy preto je ich životnosť iba po dobu spustenia aplikácie.*
+*Pozn. 1. Úlohy nie sú ukladané do databázy preto je ich životnosť iba po dobu spustenia aplikácie.*
+
+*Pozn. 2. Aplikácie boli testované v prehliadači Safari 5.1.5 a Chrome 18.*
 
 # Spustenie ukážkovej aplikácie
 Každý adresár predstavuje jednu samostatnú aplikáciu nezávislú od ostatných.
