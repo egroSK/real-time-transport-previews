@@ -1,0 +1,15 @@
+{
+	"name": "xhr-streaming-demo",
+	"description": "Ukážková real-time webová aplikácia pre bakalársku prácu s témou real-time webové aplikácie určená k demonštrácii real-time komunikácie klienta so serverom transporným spôsobom uvedeným v názve aplikácie.",
+	"version": "0.0.1",
+	"author": "Matej Paulech <matej.paulech@gmail.com>",
+	"private": true,
+	"main": "app",
+	"dependencies": {
+		"express": "2.5.8",
+		"ejs": "0.7.1"
+	},
+	"engine": {
+    "node": ">= 0.4.x"
+  }	
+}
