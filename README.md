@@ -2,7 +2,7 @@
 
 Tento projekt obsahuje ukážkové real-time webové aplikácie určené k demonštrácii rôznych real-time transportných spôsobov medzi klientom a serverom na webe. 
 
-Ukážkové aplikácie sú súčasťou bakalárskej práce na tému real-time webové aplikácie písanej na Fakulte informatiky a štatisiky na Vysokej škole ekonomickej v Prahe.
+Ukážkové aplikácie sú súčasťou bakalárskej práce na tému real-time webové aplikácie písanej na Fakulte informatiky a štatistiky na Vysokej škole ekonomickej v Prahe.
 
 Transportné spôsoby sú predvedené na aplikácii zjednodušeného todo-listu. Todo-list má implementované iba dve funkcie - pridanie novej úlohy a získanie úloh zo servera.
 
@@ -17,7 +17,7 @@ Každý adresár predstavuje jednu samostatnú aplikáciu nezávislú od ostatn�
 
 Pre spustenie ukážkovej aplikácie je nutné mať nainštalované prostredie [Node.js](http://nodejs.org/) verzie 0.4 a vyššej.
 
-Pred spustením aplikácie je treba v adresári s aplikáciou stiahnúť závislosti príkazom:
+Pred spustením aplikácie je treba v adresári s aplikáciou stiahnuť závislosti príkazom:
 
 	npm install -d
 
@@ -25,7 +25,7 @@ Samotná aplikácia sa spúšťa príkazom:
 
 	node app.js
 
-Po spustení aplikácie sa v konzole vypíše adresa a port na ktorom aplikácia beží, štandartne je to adresa localhost a port 3000. Port sa dá zmeniť v zdrojovom kóde v časti:
+Po spustení aplikácie sa v konzole vypíše adresa a port na ktorom aplikácia beží, štandardne je to adresa localhost a port 3000. Port sa dá zmeniť v zdrojovom kóde v časti:
 
 	app.listen(3000, function(){ … });
 
