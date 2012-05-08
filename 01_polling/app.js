@@ -53,7 +53,7 @@ app.configure(function(){
  */
 app.get('/', function (req, res) {
 	res.header('Cache-Control', 'no-cache');
-	res.render('index.ejs', { 'title': 'Poolling demo - Jednoduchý TODO list' });
+	res.render('index.ejs', { 'title': 'POLLING - Jednoduchý TODO list' });
 });
 
 /**
